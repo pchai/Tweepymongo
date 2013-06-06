@@ -1,18 +1,7 @@
-Google
-Facebook
-Youtube
-Yahoo
-Baidu
-Wikipedia
-windows live
-QQ
-amazon
-twitter
-taobao
-blogspot
-linkedin
-sina
-ebay
-msn
-bing
-wordpress
+budget
+deficit
+debt
+entitlements
+social security
+medicare
+sequester
